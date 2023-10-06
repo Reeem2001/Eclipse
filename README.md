@@ -22,13 +22,13 @@ To get started with any of the project components, follow the specific instructi
 
 ![Game Screenshot](game2.png)
 
-The Eclipse Explorers educational game is a Scratch-based game that allows young learners to interactively explore the world of eclipses. The game offers an engaging learning experience through gameplay, quizzes, and interactive elements. You can find the source code and assets in the `educational-game` directory.
+The Eclipse Explorers educational game is a Scratch-based game that allows young learners to interactively explore the world of eclipses. The game offers an engaging learning experience through gameplay, quizzes, and interactive elements. You can find the source code and assets in the `scenes` files.
 
 ## eBook
 
 ![eBook Cover](ebook.jpg)
 
-The "Eclipse Adventures" eBook is a comprehensive guide that explains the science behind eclipses in a fun and informative way. It includes illustrations, activities, and experiments that young learners can enjoy. You can download the eBook in PDF format from the `ebook` directory.
+The "Eclipse Adventures" eBook is a comprehensive guide that explains the science behind eclipses in a fun and informative way. It includes illustrations, activities, and experiments that young learners can enjoy. You can download the eBook in PDF format from this link `[ebook](https://drive.google.com/file/d/1R7_uPCIc4MusocsorPVhcpLNf7msew9G/view)` .
 
 ## 3D Modeling of Eclipse
 
