@@ -28,20 +28,20 @@ The Eclipse Explorers educational game is a Scratch-based game that allows young
 
 ![eBook Cover](ebook.jpg)
 
-[![Watch the video](https://img.youtube.com/vi/<https://www.youtube.com/watch?v=ZmWIdzgJ93o>/hqdefault.jpg)](https://www.youtube.com/embed/<https://www.youtube.com/watch?v=ZmWIdzgJ93o>)
+[![Watch the video](https://img.youtube.com/vi/https://www.youtube.com/watch?v=ZmWIdzgJ93o/hqdefault.jpg)](https://www.youtube.com/embed/https://www.youtube.com/watch?v=ZmWIdzgJ93o)
 
-[<img src="https://img.youtube.com/vi/<https://www.youtube.com/watch?v=ZmWIdzgJ93o>/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/<https://www.youtube.com/watch?v=ZmWIdzgJ93o>)
+[<img src="https://img.youtube.com/vi/https://www.youtube.com/watch?v=ZmWIdzgJ93o/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/https://www.youtube.com/watch?v=ZmWIdzgJ93o)
 
 The "Eclipse Adventures" eBook is a comprehensive guide that explains the science behind eclipses in a fun and informative way. It includes illustrations, activities, and experiments that young learners can enjoy. You can download the eBook in PDF format from this link `[ebook](https://drive.google.com/file/d/1R7_uPCIc4MusocsorPVhcpLNf7msew9G/view)` .
 
 ## 3D Modeling of Eclipse
 
 ![Eclipse 3D Model](model.jpg)
-[![Watch the video](https://img.youtube.com/vi/<https://www.youtube.com/watch?v=R9Ct_5qbNqI>/hqdefault.jpg)](https://www.youtube.com/embed/<https://www.youtube.com/watch?v=R9Ct_5qbNqI>)
+[![Watch the video](https://img.youtube.com/vi/https://www.youtube.com/watch?v=R9Ct_5qbNqI/hqdefault.jpg)](https://www.youtube.com/embed/https://www.youtube.com/watch?v=R9Ct_5qbNqI)
 
-[<img src="https://img.youtube.com/vi/<https://www.youtube.com/watch?v=R9Ct_5qbNqI>/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/<https://www.youtube.com/watch?v=R9Ct_5qbNqI>)
+[<img src="https://img.youtube.com/vi/https://www.youtube.com/watch?v=R9Ct_5qbNqI/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/https://www.youtube.com/watch?v=R9Ct_5qbNqI)
 
 The 3D modeling project in this repository features a detailed representation of a solar eclipse. 
 
